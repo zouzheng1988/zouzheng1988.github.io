@@ -1,0 +1,5 @@
+2018.06.29 15:37:38 [ Ssh ] (SYSTEM) [Exec] nginx -t
+2018.06.29 15:38:47 [ Ssh ] (SYSTEM) [Exec] nginx -t
+2018.06.29 16:04:00 [ Ssh ] (SYSTEM) [Exec] /etc/init.d/nginx restart
+2018.06.29 18:24:49 [ Ssh ] (SYSTEM) [Exec] /etc/init.d/nginx restart
+2018.07.02 17:51:52 [ Ssh ] (SYSTEM) [Exec] /etc/init.d/nginx restart

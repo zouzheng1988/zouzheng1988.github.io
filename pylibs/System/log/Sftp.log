@@ -1,0 +1,42 @@
+2018.06.29 15:05:07 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 15:05:08 [ Sftp ] (SYSTEM) [GetFile] 1231321 <==== /etc/nginx/sites-avaliable/demo.nginx.conf
+2018.06.29 15:05:08 [ Sftp ] (SYSTEM) [GetFile] wrong with -- [Errno 2] No such file
+2018.06.29 15:07:14 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 15:07:15 [ Sftp ] (SYSTEM) [GetFile] 1231321 <==== /etc/nginx/sites-avaliable/demo.nginx.conf
+2018.06.29 15:07:15 [ Sftp ] (SYSTEM) [GetFile] wrong with -- [Errno 2] No such file
+2018.06.29 15:07:59 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 15:08:00 [ Sftp ] (SYSTEM) [GetFile] 1231321 <==== /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 15:08:00 [ Sftp ] (SYSTEM) success
+2018.06.29 15:22:08 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 15:22:10 [ Sftp ] (SYSTEM) [GetFile] 1 <==== /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 15:22:10 [ Sftp ] (SYSTEM) success
+2018.06.29 15:37:38 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 15:37:38 [ Sftp ] (SYSTEM) [GetFile] /home/royzou/backup/nginx/backup/2018-06-29-15:37:38 <==== /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 15:37:38 [ Sftp ] (SYSTEM) success
+2018.06.29 15:37:38 [ Sftp ] (SYSTEM) [PutFile] /home/royzou/backup/nginx/update/update.nginx.conf ====> /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 15:37:38 [ Sftp ] (SYSTEM) [PutFile] success
+2018.06.29 15:38:46 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 15:38:47 [ Sftp ] (SYSTEM) [GetFile] /home/royzou/backup/nginx/backup/2018-06-29-15:38:47 <==== /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 15:38:47 [ Sftp ] (SYSTEM) success
+2018.06.29 15:38:47 [ Sftp ] (SYSTEM) [PutFile] /home/royzou/backup/nginx/update/update.nginx.conf ====> /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 15:38:47 [ Sftp ] (SYSTEM) [PutFile] success
+2018.06.29 15:40:18 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 15:40:19 [ Sftp ] (SYSTEM) [GetFile] /home/royzou/backup/nginx/backup/2018-06-29-15:40:19 <==== /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 15:40:19 [ Sftp ] (SYSTEM) success
+2018.06.29 15:40:19 [ Sftp ] (SYSTEM) [PutFile] /home/royzou/backup/nginx/update/update.nginx.conf ====> /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 15:40:19 [ Sftp ] (SYSTEM) [PutFile] success
+2018.06.29 16:03:59 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 16:04:00 [ Sftp ] (SYSTEM) [GetFile] /home/royzou/backup/nginx/backup/2018-06-29-16:04:00 <==== /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 16:04:00 [ Sftp ] (SYSTEM) success
+2018.06.29 16:04:00 [ Sftp ] (SYSTEM) [PutFile] /home/royzou/backup/nginx/update/update.nginx.conf ====> /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 16:04:00 [ Sftp ] (SYSTEM) [PutFile] success
+2018.06.29 18:24:48 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.06.29 18:24:49 [ Sftp ] (SYSTEM) [GetFile] /home/royzou/backup/nginx/backup/2018-06-29-18:24:49 <==== /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 18:24:49 [ Sftp ] (SYSTEM) success
+2018.06.29 18:24:49 [ Sftp ] (SYSTEM) [PutFile] /home/royzou/backup/nginx/update/update.nginx.conf ====> /etc/nginx/sites-available/demo.nginx.conf
+2018.06.29 18:24:49 [ Sftp ] (SYSTEM) [PutFile] success
+2018.07.02 17:51:51 [ Sftp ] (SYSTEM) [Connect] connect to  10.16.1.1
+2018.07.02 17:51:52 [ Sftp ] (SYSTEM) [GetFile] /home/royzou/backup/nginx/backup/2018-07-02-17:51:52 <==== /etc/nginx/sites-available/demo.nginx.conf
+2018.07.02 17:51:52 [ Sftp ] (SYSTEM) success
+2018.07.02 17:51:52 [ Sftp ] (SYSTEM) [PutFile] /home/royzou/backup/nginx/update/update.nginx.conf ====> /etc/nginx/sites-available/demo.nginx.conf
+2018.07.02 17:51:52 [ Sftp ] (SYSTEM) [PutFile] success
