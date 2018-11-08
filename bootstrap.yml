@@ -1,0 +1,11 @@
+spring:
+  profiles: local
+  cloud:
+    config:
+      server:
+        bootstrap: true
+        git:
+          uri: http://xx.xx.xx.xxx:xxxx/xxxx/hongguan-parent.git
+          username: guest
+          password: guest
+          search-paths: hongguan-config/respo_conf
